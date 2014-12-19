@@ -67,6 +67,10 @@ function imageToBlob( img, options, callback ) {
         src = img;
     }
 
+    if ( /^data:/.test( src ) ) { // check to see if its a data uri
+        callback( null, dataURItoBlob( src ) ); // script to datauri conversion
+        return;
+    }
 
     options.type = types[ options.type ] || getType( src );
     options.src = src;
