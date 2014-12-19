@@ -31,6 +31,6 @@
     "tape-run": "^0.3.0"
   },
   "dependencies": {
-    "image-to-data-uri": "0.0.1"
+    "image-to-data-uri": "jcblw/image-to-data-uri.js"
   }
 }
