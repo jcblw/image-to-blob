@@ -4,7 +4,7 @@
   "description": "a small util to convert image urls to blobs",
   "main": "index.js",
   "scripts": {
-    "test": "jshint ./index.js && browserify test/*.js | tape-run -b firefox -s",
+    "test": "jshint ./index.js && browserify test/*.js | tape-run -b firefox -s `pwd`",
     "build": "gulp"
   },
   "repository": {
@@ -28,7 +28,7 @@
     "gulp-uglify": "^1.0.1",
     "jshint": "^2.5.10",
     "tape": "^3.0.3",
-    "tape-run": "jcblw/tape-run"
+    "tape-run": "0.5.0"
   },
   "dependencies": {
     "image-to-data-uri": "jcblw/image-to-data-uri.js"
