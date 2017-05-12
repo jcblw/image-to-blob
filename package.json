@@ -19,15 +19,15 @@
   },
   "homepage": "https://github.com/honeinc/image-to-blob",
   "devDependencies": {
-    "browserify": "^6.3.2",
+    "browserify": "^14.3.0",
     "faucet": "0.0.1",
     "gulp": "^3.8.10",
     "gulp-browserify": "^0.5.0",
-    "gulp-debug": "^1.0.1",
+    "gulp-debug": "^3.1.0",
     "gulp-rename": "^1.2.0",
-    "gulp-uglify": "^1.0.1",
+    "gulp-uglify": "^2.1.2",
     "jshint": "^2.5.10",
-    "tape": "^3.0.3",
+    "tape": "^4.6.3",
     "tape-run": "jcblw/tape-run"
   },
   "dependencies": {
