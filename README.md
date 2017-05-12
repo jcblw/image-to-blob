@@ -1,5 +1,7 @@
 # Image to Blob [![Build Status](https://travis-ci.org/jcblw/image-to-blob.svg?branch=master)](https://travis-ci.org/jcblw/image-to-blob)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jcblw/image-to-blob.svg)](https://greenkeeper.io/)
+
 Image to Blob is a simple utility that will convert images to blobs this can be used for urls to images, that are not cross domain, and IMG DOM node. Its intended to be used with [Browserify](http://browserify.org).
 
 ## Install
