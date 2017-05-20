@@ -25,7 +25,7 @@
     "gulp-browserify": "^0.5.0",
     "gulp-debug": "^3.1.0",
     "gulp-rename": "^1.2.0",
-    "gulp-uglify": "^2.1.2",
+    "gulp-uglify": "^3.0.0",
     "jshint": "^2.5.10",
     "tape": "^4.6.3",
     "tape-run": "jcblw/tape-run"
