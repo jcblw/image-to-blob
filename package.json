@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/honeinc/image-to-blob"
+    "url": "https://github.com/jcblw/image-to-blob"
   },
   "keywords": [],
   "author": "Jacob Lowe",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/honeinc/image-to-blob/issues"
+    "url": "https://github.com/jcblw/image-to-blob/issues"
   },
-  "homepage": "https://github.com/honeinc/image-to-blob",
+  "homepage": "https://github.com/jcblw/image-to-blob",
   "devDependencies": {
     "browserify": "^14.3.0",
     "faucet": "0.0.1",
